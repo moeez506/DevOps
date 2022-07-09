@@ -1,1 +1,6 @@
 Branch1 commit from server 1
+
+aand also commit from master branch
+
+
+Merge conflict from branch1 server 1
