@@ -7,3 +7,5 @@ aand also commit from master branch
 =======
 Merge conflict from branch1 server 1
 >>>>>>> branch1
+
+updated
